@@ -1,9 +1,11 @@
-package com.example.e_commercelaptop;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+
+ @SpringBootApplication
+
 public class ECommercelaptopApplication {
 
 	public static void main(String[] args) {
